@@ -7,3 +7,37 @@
 :root {
     font-size: 62.5%;
 }
+
+#icons {
+    display: flex;
+    gap: 1.5rem;
+}
+
+footer#format-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    background-color: #000;
+    color: #00FFF0;
+    height: 100%;
+    padding: 5rem 0rem 9rem 0rem;
+
+    h1 {
+        font-size: 5rem;
+        font-family: Poppins;
+    }
+
+    p {
+        font-size: 1.5rem;
+        font-family: Nunito Sans;
+        text-align: center;
+    }
+}
+
+#logo-aestrix {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+}
