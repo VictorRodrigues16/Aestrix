@@ -1,4 +1,4 @@
-import "../styles/Sneakers.scss"
+import "../styles/Produtos.scss"
 import tenis1 from  "../assets/tenis1.svg"
 import tenis2 from  "../assets/tenis2.svg"
 import tenis3 from  "../assets/tenis3.svg"
