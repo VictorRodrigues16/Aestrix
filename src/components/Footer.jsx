@@ -4,9 +4,11 @@ export default function Footer() {
 
     return (
       <>
-        <section id="footer">
-          
-        </section>
+        <footer id='format-footer'>
+          <div>
+            
+          </div>
+        </footer>
       </>
     )
   }
