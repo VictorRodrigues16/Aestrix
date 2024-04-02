@@ -25,8 +25,8 @@ export default function Sneakers() {
                             <img src={tenis1} alt="tenis1" />
                         </div>
                         <h1>Tênis Puma Deviate Nitro 2 Psychedelic Rush Feminino - Preto</h1>
-                        <h2>R$ 1.499,90</h2>
-                        <p>até 10x de R$ 149,99 sem juros</p>
+                        <h2>R$ 1.499,90<br /><span>até 10x de R$ 149,99 sem juros</span></h2>
+                        
                     </div>
 
                     <div className="box">
@@ -34,8 +34,8 @@ export default function Sneakers() {
                             <img src={tenis2} alt="tenis2" />
                         </div>
                         <h1>Tênis New Balance Fresh Foam X 1080 V13 Masculino - Preto</h1>
-                        <h2>R$ 1.199,99</h2>
-                        <p>até 10x de R$ 120,00 sem juros</p>
+                        <h2>R$ 1.199,99<br /> <span>até 10x de R$ 120,00 sem juros</span></h2>
+                        
                     </div>
 
                     <div className="box">
@@ -43,8 +43,8 @@ export default function Sneakers() {
                             <img src={tenis3} alt="tenis3" />
                         </div>
                         <h1>Tênis Asics Gel-Cumulus 26 Feminino - Verde</h1>
-                        <h2>R$ 899,99</h2>
-                        <p>até 10x de R$ 90,00 sem juros</p>
+                        <h2>R$ 899,99 <br /><span>até 10x de R$ 90,00 sem juros</span></h2>
+                        
                     </div>
 
                     <div className="box">
@@ -52,8 +52,8 @@ export default function Sneakers() {
                             <img src={tenis4} alt="tenis4" />
                         </div>
                         <h1>Tênis Olympikus Citrus 2 Feminino - Cinza+Salmão</h1>
-                        <h2>R$ 179,99</h2>
-                        <p>até 2x de R$ 90,00 sem juros</p>
+                        <h2>R$ 179,99 <br /><span>até 2x de R$ 90,00 sem juros</span></h2>
+                        
                     </div>
                     
                 </div>
@@ -64,8 +64,8 @@ export default function Sneakers() {
                             <img src={tenis5} alt="tenis5" />
                         </div>
                         <h1>Tênis Adidas Coreracer Masculino - Preto+Branco</h1>
-                        <h2>R$ 249,99</h2>
-                        <p>até 2x de R$ 125,00 sem juros</p>
+                        <h2>R$ 249,99<br /><span>até 2x de R$ 125,00 sem juros</span></h2>
+                        
                     </div>
 
                     <div className="box">
@@ -73,8 +73,8 @@ export default function Sneakers() {
                             <img src={tenis6} alt="tenis6" />
                         </div>
                         <h1>Tênis Adidas Coreracer Masculino - Azul+Marinho</h1>
-                        <h2>R$ 249,99</h2>
-                        <p>até 2x de R$ 125,00 sem juros</p>
+                        <h2>R$ 249,99<br /><span>até 2x de R$ 125,00 sem juros</span></h2>
+                        
                     </div>
 
                     <div className="box">
@@ -82,8 +82,8 @@ export default function Sneakers() {
                             <img src={tenis7} alt="tenis7" />
                         </div>
                         <h1>Tênis Adidas Runfalcon 3.0 Feminino - Branco+dourado</h1>
-                        <h2>R$ 399,99</h2>
-                        <p>até 5x de R$ 80,00 sem juros</p>
+                        <h2>R$ 399,99<br /><span>até 5x de R$ 80,00 sem juros</span></h2>
+                        
                     </div>
 
                     <div className="box">
@@ -91,8 +91,8 @@ export default function Sneakers() {
                             <img src={tenis8} alt="tenis8" />
                         </div>
                         <h1>Tênis Fila Racer Carbon 2 Feminino - Laranja+Azul</h1>
-                        <h2>R$ 1.099,99</h2>
-                        <p>até 10x de R$ 110,00 sem juros</p>
+                        <h2>R$ 1.099,99<br /> <span>até 10x de R$ 110,00 sem juros</span></h2>
+                        
                     </div>
                     
                 </div>
