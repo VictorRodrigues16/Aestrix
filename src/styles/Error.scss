@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section#error-page {
+    display: flex;
+    justify-content: center;
+    background-color: #000;
+    height: 100rem;
+    
+
+    #format-page {
+        display: flex;
+        flex-direction: column;
+    }
+
+    h1 {
+        text-align: center;
+        color: white;
+        font-size: 3rem;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+}
