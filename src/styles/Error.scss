@@ -5,15 +5,15 @@
 }
 
 section#error-page {
-    display: flex;
-    justify-content: center;
+    display: grid;
+    place-items: center;
     background-color: #000;
-    height: 100rem;
-    
+    padding: 1.67rem;
 
     #format-page {
         display: flex;
         flex-direction: column;
+        width: 100%;
     }
 
     h1 {
@@ -21,5 +21,11 @@ section#error-page {
         color: white;
         font-size: 3rem;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    .return-btn {
+        color: aliceblue;
+        text-decoration: none;
+        font-size: 2rem;
     }
 }
