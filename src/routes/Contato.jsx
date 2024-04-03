@@ -42,7 +42,7 @@ export default function Contato() {
           <div id="check">
             <input className="checkbox" type="checkbox" id="checkbox" />
             <label id="info-check">
-              Concordo com o envio dos dados e autorizo o ICR Conecta a entrar
+              Concordo com o envio dos dados e autorizo o Aestrix a entrar
               contato comigo através deles.
             </label>
           </div>
