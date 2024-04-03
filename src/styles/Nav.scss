@@ -41,6 +41,8 @@ header{
             align-items: center;
 
             padding-right: 10em;
+
+            
         }
 
         .nav-center-content-links a  {
@@ -48,7 +50,18 @@ header{
         
             font-weight: 600;
             font-size: 2.1em;
+            text-decoration: none;
             cursor: pointer;
+
+            linear-gradient: (to right, #056da1, #3284AE); 
+            background-repeat: no-repeat;
+            background-size: 0% 3px;
+            background-position: left bottom;
+            transition: .4s ease;
+        }
+
+        .nav-center-content-links a :hover{
+            background-size: 100% 2px;
         }
 
     #store-cart{

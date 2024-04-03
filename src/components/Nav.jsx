@@ -3,8 +3,6 @@ import { Link } from 'react-router-dom'
 import logo from "../assets/logo-nav.svg"
 import storeCart from '../assets/store-cart-icon.svg'
 
-import Sobre from '../routes/Sobre'
-
 export default function Nav() {
 
     return (
