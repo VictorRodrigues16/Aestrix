@@ -10,8 +10,7 @@ export default function Error() {
         <img src={errorMsg} alt="errorMsg" />
         <h1>404 - PAGE NOT FOUND... PLEASE TRY AGAIN!</h1>
         <Link to="/" className="return-btn">
-          {" "}
-          RETURN TO HOME{" "}
+          RETURN TO HOME
         </Link>
       </section>
     </>
