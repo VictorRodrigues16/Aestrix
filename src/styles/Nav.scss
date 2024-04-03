@@ -53,15 +53,15 @@ header{
             text-decoration: none;
             cursor: pointer;
 
-            linear-gradient: (to right, #056da1, #3284AE); 
-            background-repeat: no-repeat;
-            background-size: 0% 3px;
-            background-position: left bottom;
-            transition: .4s ease;
+            box-shadow: inset 0 0 0 0 aqua;
+            margin: 0 -.25rem;
+            padding: 0 .25rem;
+            transition: color .5s ease-in-out, box-shadow .5s ease-in-out;
         }
 
-        .nav-center-content-links a :hover{
-            background-size: 100% 2px;
+        .nav-center-content-links a:hover{
+                box-shadow: inset 100px 0 0 0 #54b3d6;
+                color: white;
         }
 
     #store-cart{
