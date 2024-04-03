@@ -16,7 +16,7 @@ button {
   font-size: 5.4rem;
   color: #000;
   background-color: #00fff0;
-  font-family: "Poppins" sans-serif;
+  font-family: Poppins sans-serif;
   text-align: center;
   padding: 2rem 2rem;
   width: 46rem;
@@ -47,7 +47,7 @@ button {
 
   textarea.form-input {
     height: 23rem;
-    font-family: Open Sans;
+    font-family: Nunito;
   }
 }
 
@@ -59,13 +59,14 @@ button {
     font-size: 1.6rem;
     color: #b2aeae;
   }
+
+  .checkbox {
+    width: 2rem;
+    background-color: #fff;
+  }
 }
 
-.checkbox {
-  background-color: #d9d9d9;
-  font-size: 2rem;
-  padding: 5rem;
-}
+
 
 button {
   padding: 2rem 5.8rem;
