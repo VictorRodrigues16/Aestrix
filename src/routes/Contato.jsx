@@ -11,7 +11,7 @@ export default function Contato() {
           <div className="form-group">
             <input
               id="name"
-              required=""
+              required
               placeholder="Nome Completo*"
               className="form-input"
               type="text"
@@ -21,7 +21,7 @@ export default function Contato() {
           <div className="form-group">
             <input
               id="email"
-              required=""
+              required
               placeholder="E-mail*"
               className="form-input"
               name="email"
@@ -31,7 +31,7 @@ export default function Contato() {
 
           <div className="form-group">
             <textarea
-              required=""
+              required
               placeholder="Mensagem*"
               className="form-input"
               name="message"
