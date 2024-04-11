@@ -24,7 +24,7 @@ npm run dev
 ou
 <br>
 
-<a href="">
+<a href="https://victorrodrigues16.github.io/Aestrix/">
   Acesse o Site
 </a>
 
